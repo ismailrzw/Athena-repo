@@ -1,6 +1,6 @@
-"# My Project" 
+"# Ultralytics Project" 
 
-# My Project
+# Object Tracking
 
 ## Installed Libraries
 This project uses the following Python libraries inside a Conda environment:
